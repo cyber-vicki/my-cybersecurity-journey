@@ -19,4 +19,4 @@ I'll be adding:
 - LinkedIn: www.linkedin.com/in/victory-ewala-omoba-5bb9b01b5
 - Email:victorydavid17@yahoo.com
 
-*This is the beginning of my cybersecurity portfolio. Check back for updates!*
+This is the beginning of my cybersecurity portfolio. Check back for updates!
